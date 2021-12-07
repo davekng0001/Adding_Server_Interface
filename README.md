@@ -1,4 +1,6 @@
-# MyFirstApp
+# Adding Server Interface App
+Utilizing Angular Webframework HTML CSS and Typescript. This interface would enable the user to initialize a virtual server,by setting a name and a message for the server to incorporate.
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
